@@ -1,8 +1,8 @@
 class ClaudeMonitor < Formula
   desc "TUI monitor for parallel Claude Code sessions on macOS"
   homepage "https://github.com/rotorrest/claude-monitor"
-  url "https://github.com/rotorrest/claude-monitor/releases/download/v0.6.0/claude-monitor-0.6.0.tar.gz"
-  sha256 "e240fc12399362bf90cffb020cb7c09dab3fa2b09d7bf67af260b6af46e80d39"
+  url "https://github.com/rotorrest/claude-monitor/releases/download/v0.7.0/claude-monitor-0.7.0.tar.gz"
+  sha256 "c1a5d61803f48db5122cd687a52a82153ed7681b5074e1aa3c3c1292d57e669f"
   license "MIT"
 
   depends_on :macos
