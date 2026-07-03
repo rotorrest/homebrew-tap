@@ -3,7 +3,7 @@
 Tap personal de Homebrew.
 
 ```bash
-brew tap rotorrest/tap
+brew tap rotorrest/tap && brew trust rotorrest/tap
 brew install claude-monitor   # también responde a: brew install claudios | claudes
 ```
 
